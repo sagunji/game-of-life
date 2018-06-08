@@ -1,0 +1,15 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "Game of life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sagun Karanjit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagunji/game-of-life/issues"
+  },
+  "homepage": "https://github.com/sagunji/game-of-life#readme"
+}
